@@ -1,1 +1,1 @@
-# Newton-html-css-mini-project
+# Newton-HTML-CSS-mini-Project
